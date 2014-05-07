@@ -10,3 +10,9 @@ Dec (J2000): -21d 39' 44.9"
 
 with an uncertainty of 1.9 arcsec (radius, 90% confidence).
 
+Quick look analysis
+==================
+MOS1 0.2 - 12.0 keV :  6 sigma
+MOS2 0.2 - 12.0 keV : 13 sigma
+PN   0.2 - 12.0 keV : 17 sigma
+ 
